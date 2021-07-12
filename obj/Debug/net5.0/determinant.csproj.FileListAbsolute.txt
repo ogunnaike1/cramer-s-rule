@@ -1,0 +1,16 @@
+C:\Users\INI\Desktop\New folder (3)\determinant\bin\Debug\net5.0\determinant.exe
+C:\Users\INI\Desktop\New folder (3)\determinant\bin\Debug\net5.0\determinant.deps.json
+C:\Users\INI\Desktop\New folder (3)\determinant\bin\Debug\net5.0\determinant.runtimeconfig.json
+C:\Users\INI\Desktop\New folder (3)\determinant\bin\Debug\net5.0\determinant.runtimeconfig.dev.json
+C:\Users\INI\Desktop\New folder (3)\determinant\bin\Debug\net5.0\determinant.dll
+C:\Users\INI\Desktop\New folder (3)\determinant\bin\Debug\net5.0\ref\determinant.dll
+C:\Users\INI\Desktop\New folder (3)\determinant\bin\Debug\net5.0\determinant.pdb
+C:\Users\INI\Desktop\New folder (3)\determinant\obj\Debug\net5.0\determinant.csproj.AssemblyReference.cache
+C:\Users\INI\Desktop\New folder (3)\determinant\obj\Debug\net5.0\determinant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INI\Desktop\New folder (3)\determinant\obj\Debug\net5.0\determinant.AssemblyInfoInputs.cache
+C:\Users\INI\Desktop\New folder (3)\determinant\obj\Debug\net5.0\determinant.AssemblyInfo.cs
+C:\Users\INI\Desktop\New folder (3)\determinant\obj\Debug\net5.0\determinant.csproj.CoreCompileInputs.cache
+C:\Users\INI\Desktop\New folder (3)\determinant\obj\Debug\net5.0\determinant.dll
+C:\Users\INI\Desktop\New folder (3)\determinant\obj\Debug\net5.0\ref\determinant.dll
+C:\Users\INI\Desktop\New folder (3)\determinant\obj\Debug\net5.0\determinant.pdb
+C:\Users\INI\Desktop\New folder (3)\determinant\obj\Debug\net5.0\determinant.genruntimeconfig.cache
